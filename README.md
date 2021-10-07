@@ -4,4 +4,4 @@ Part 1: https://blog.pythonanywhere.com/121/
 
 Part 2: https://blog.pythonanywhere.com/158/
 
-My adjustments were using a Python 3.9 
+My adjustments were using Python 3.9 
